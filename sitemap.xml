@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Home page -->
+    <url>
+        <loc>https://www.mokshtechnology.com/</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>1.0</priority>
+        <changefreq>daily</changefreq>
+    </url>
+    
+    <!-- About page -->
+    <url>
+        <loc>https://www.mokshtechnology.com/about.html</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>0.8</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+    
+    <!-- Services pages -->
+    <url>
+        <loc>https://www.mokshtechnology.com/services.html</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>0.9</priority>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    <!-- Contact page -->
+    <url>
+        <loc>https://www.mokshtechnology.com/contact.html</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- Testimonials page -->
+    <url>
+        <loc>https://www.mokshtechnology.com/testimonials.html</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+    <!-- FAQ page -->
+    <url>
+        <loc>https://www.mokshtechnology.com/faq.html</loc>
+        <lastmod>2024-09-22</lastmod>
+        <priority>0.7</priority>
+        <changefreq>monthly</changefreq>
+    </url>
+
+</urlset>
